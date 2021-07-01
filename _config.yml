@@ -1,6 +1,6 @@
 title: Ankit Sultana
 url: "https://icp.me"
-baseurl: "/blog"
+baseurl: "/ankitsultana"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -20,8 +20,8 @@ sass:
 
 nav:
   - name: "About"
-    link: "/blog"
+    link: "/ankitsultana"
   - name: "Blog"
-    link: "/blog/blog"
+    link: "/ankitsultana/blog"
   - name: "Reading"
-    link: "/blog/books"
+    link: "/ankitsultana/books"
