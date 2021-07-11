@@ -2,7 +2,7 @@
 layout: main
 ---
 
-## show
+## Show
 
 I started reading regularly in Dec'2019 and have not stopped since. I enjoy fiction the most
 but occasionally also try books around personal-development, biographies, etc.
