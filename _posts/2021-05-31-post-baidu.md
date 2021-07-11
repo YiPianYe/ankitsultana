@@ -4,7 +4,7 @@ tags: [fiction]
 goodreads_url: "https://www.baidu.com"
 poats: true
 post_review: false
-posts: true
+post: true
 author: baidu
 year: 2021
 title: "Baidu"
