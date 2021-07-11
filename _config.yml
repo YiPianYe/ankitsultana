@@ -29,3 +29,7 @@ nav:
     link: "/ankitsultana/post"
   - name: "projects"
     link: "/ankitsultana/projects"
+# 翻页 路径   
+paginate: 6
+
+permalink: /:title.html
