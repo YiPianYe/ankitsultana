@@ -25,6 +25,8 @@ nav:
     link: "/ankitsultana/blog"
   - name: "Post"
     link: "/ankitsultana/post"
+  - name: "show"
+    link: "/ankitsultana/show"
   - name: "projects"
     link: "/ankitsultana/projects"
   - name: "About"
