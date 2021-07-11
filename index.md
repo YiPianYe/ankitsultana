@@ -42,7 +42,11 @@ layout: main
     {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
 
+___
+
 ---
+
+***
 
 ## Show 秀
 
@@ -62,6 +66,10 @@ layout: main
     </li>
     {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
+
+___
+
+---
 
 ***
 
