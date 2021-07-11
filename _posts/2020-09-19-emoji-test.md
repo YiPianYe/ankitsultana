@@ -1,4 +1,7 @@
 ---
+show: true
+show_review: false
+show: true
 title: Emoji Test
 tags:
 ---
