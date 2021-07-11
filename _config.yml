@@ -25,13 +25,14 @@ nav:
     link: "/ankitsultana/blog"
   - name: "Post"
     link: "/ankitsultana/post"
-  - name: "show"
+  - name: "Show"
     link: "/ankitsultana/show"
-  - name: "projects"
+  - name: "Projects"
     link: "/ankitsultana/projects"
   - name: "About"
     link: "/ankitsultana/about"
-# 翻页 路径   
+# 翻页 路径 
+  
 paginate: 6
 
 permalink: /:title.html
