@@ -16,7 +16,7 @@ as well.
 
 ---
 
-### 闲聊 Ramblings
+### 闲聊 Posts
 
 <ul class="related-posts">
 
