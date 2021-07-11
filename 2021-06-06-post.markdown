@@ -1,5 +1,0 @@
----
-title: "What I Read in "
-layout: default
-post: true
----
