@@ -11,8 +11,7 @@ I use this page to get myself into the habit of writing more. Below you can find
 a list of my recommended books; books that I have read recently; and, some
 random ramblings around the same.
 
-I am quite active on [Goodreads](https://www.goodreads.com/user/show/33989424-ankit-sultana)
-as well.
+I am quite active on as well.
 
 ---
 
