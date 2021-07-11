@@ -42,12 +42,6 @@ layout: main
     {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
 
-___
-
----
-
-***
-
 ## Show 秀
 
 <ul class="related-posts">
@@ -66,12 +60,6 @@ ___
     </li>
     {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
-
-___
-
----
-
-***
 
 ## Projects 项目
 
