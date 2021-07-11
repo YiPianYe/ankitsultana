@@ -20,7 +20,7 @@ as well.
 
 <ul class="related-posts">
 
-{% assign blog_posts = site.posts | where: 'book_rambling', true %}
+{% assign blog_posts = site.posts | where: 'post', true %}
 {% for post in blog_posts %}
     <li class="main-page-list">
         <h4>
