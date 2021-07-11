@@ -16,7 +16,7 @@ as well.
 
 ---
 
-### 闲聊 Posts
+###  Posts
 
 <ul class="related-posts">
 
@@ -35,48 +35,3 @@ as well.
     {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
 
----
-
-### 推崇 Recommended
-
-<ul class="related-posts">
-
-{% assign blog_posts = site.posts | where: 'recommended_book', true %}
-{% for post in blog_posts %}
-        <li class="main-page-list">
-            <h4>
-            <a href="{{ post.goodreads_url }}">
-                <span>{{ post.title }}</span>
-            </a>
-                <small>by {{ post.author }}.</small>
-                <small>published {{ post.year }}.</small>
-            </h4>
-        </li>
-        {% if forloop.last %}</ul>{% endif %}
-{% endfor %}
-
-
----
-
-### 阅读 Recently Read
-
-<ul class="related-posts">
-
-{% assign book_reviews = site.posts | where: 'book', true %}
-{% for post in book_reviews limit:10 %}
-        <li class="main-page-list">
-            <h4>
-            <div style="display: inline-block; width: 90px">
-                <small>{{ post.date | date: "%Y-%m-%d" }}</small>
-            </div>
-            <div>
-            <a href="{{ post.goodreads_url }}">
-                <span>{{ post.title }}.</span>
-            </a>
-            <small>by {{ post.author }}.</small>
-            <small>published {{ post.year }}.</small>
-            </div>
-            </h4>
-        </li>
-        {% if forloop.last %}</ul>{% endif %}
-{% endfor %}
