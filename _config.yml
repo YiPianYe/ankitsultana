@@ -19,7 +19,7 @@ sass:
   sass_dir: _sass
 
 nav:
-  - name: "About"
+  - name: "Home"
     link: "/ankitsultana"
   - name: "Blog"
     link: "/ankitsultana/blog"
@@ -29,6 +29,8 @@ nav:
     link: "/ankitsultana/post"
   - name: "projects"
     link: "/ankitsultana/projects"
+  - name: "About"
+    link: "/ankitsultana/about"
 # 翻页 路径   
 paginate: 6
 
