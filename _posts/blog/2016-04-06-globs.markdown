@@ -10,7 +10,10 @@ characters.
 
 <img src="https://www.baidu.com/img/flexible/logo/pc/result.png" width = "100" height = "100" alt="图片名称" align=center />
 
-![avatar](http://baidu.com/pic/doge.png)
+![avatar](https://www.baidu.com/img/flexible/logo/pc/result.png)
+
+![avatar](https://www.baidu.com/img/flexible/logo/pc/result.png)
+<a href="https://www.baidu.com/" title="超链接title">超链接显示名</a>
 
 <p class="lead">But what the heck is a wild card character ?</p>
 
