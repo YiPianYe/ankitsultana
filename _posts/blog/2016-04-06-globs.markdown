@@ -12,6 +12,8 @@ characters.
 
 ![avatar](https://www.baidu.com/img/flexible/logo/pc/result.png)
 
+![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
+
 ![avatar](https://www.baidu.com/img/flexible/logo/pc/result.png)
 <a href="https://www.baidu.com/" title="超链接title">超链接显示名</a>
 
