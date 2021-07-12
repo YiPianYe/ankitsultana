@@ -8,18 +8,12 @@ blog_post: true
 According to wikipedia, glob patterns specify sets of filenames with wild card
 characters.
 
-<img src="https://www.baidu.com/img/flexible/logo/pc/result.png" width = "10" height = "10" alt="图片名称" align=center />
-<img src="http://static.runoob.com/images/runoob-logo.png" width="50%">
-
-![avatar](https://www.baidu.com/img/flexible/logo/pc/result.png)
-
-![RUNOOB图标](https://www.baidu.com/img/flexible/logo/pc/result.png "RUNOOB")
-
-![avatar](https://www.baidu.com/img/flexible/logo/pc/result.png)
-
-<a href="https://www.baidu.com/" title="超链接title">超链接显示名</a>
-
-<a href="https://www.baidu.com/" target="_blank" title="描述"><img src="https://www.baidu.com/img/flexible/logo/pc/result.png"  width="50" height="50" border="1"></a>
+这是一个链接 [菜鸟教程](https://www.runoob.com)
+这是一个链接 [菜鸟教程](https://www.runoob.com)
+这是一个链接 [菜鸟教程](https://www.runoob.com)
+这是一个链接 [菜鸟教程](https://www.runoob.com)
+这是一个链接 [菜鸟教程](https://www.runoob.com)
+这是一个链接 [菜鸟教程](https://www.runoob.com)
 
 <p class="lead">But what the heck is a wild card character ?</p>
 
