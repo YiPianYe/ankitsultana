@@ -2,6 +2,8 @@
 layout: main
 ---
 
+### Home
+
 ## Blog
 
 <ul class="related-posts">
